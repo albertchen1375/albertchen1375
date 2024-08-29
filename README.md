@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Albert Chen</h1>
+<h3 align="center">A Bioinformatics and Data Science student at UCLA</h3>
 
-<!--
-**albertchen1375/albertchen1375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at the Orsulic Lab, **focusing on creating Bioinformatic pipelines for Ovarian Cancer research**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **how to apply multimodal learning models toward disease prediction**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **albertchen1375@gmail.com**
+
+- ⚡ Fun fact **My favorite animals are Elephants!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
